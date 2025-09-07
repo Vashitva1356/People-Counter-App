@@ -5,11 +5,6 @@ Built with **HTML, CSS, and JavaScript**.
 
 ---
 
-## 📸 Preview
-![App Screenshot](station.jpg)
-
----
-
 ## ✨ Features
 - Increment people count with a button
 - Save previous entries
@@ -25,12 +20,12 @@ Built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 🚀 Live Demo
-[Click here to view](https://username.github.io/people-counter-app/)
+[Click here to view]( https://vashitva1356.github.io/People-Counter-App/)
 
 ---
 
 ## 📂 Source Code
-[GitHub Repository](https://github.com/username/people-counter-app)
+[GitHub Repository](https://github.com/Vashitva1356/People-Counter-App.git)
 
 ---
 
